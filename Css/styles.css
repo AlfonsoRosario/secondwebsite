@@ -1,0 +1,72 @@
+body
+        {
+        margin: 0px;
+        position: relative;    
+        text-align: center;
+        font-family: 'Merriweather', serif;
+        background-color: #aaeaf5; 
+        }
+
+.contain
+        {
+                
+        margin: 0;
+        justify-content: center;
+        position: relative;
+        box-shadow: 2px 1px 2px black;
+        height: 200px;
+        width: 100%;
+        background-color: rgb(20, 142, 163);
+        display: flex;
+        }
+
+.header      
+        {
+        font-family: 'Great vibes', cursive;
+        font-weight: 0; 
+        font-size: 25px;
+        padding-top: 40px;
+        display: inline-block;        
+        }
+
+.cloud-heading
+        {     
+        position: absolute;
+        top: 30px;
+        right: 30%;
+        display: inline-block;
+        }        
+.cloud-bottom
+        {
+        position: absolute;
+        bottom: 30px;
+        left: 30%;
+        display: inline-block;
+        }  
+.intro
+        {
+        margin: 0;        
+        font-family: 'Montserrat',sans-serif;        
+        font-size: 20px;
+        position: absolute;
+        bottom: 10px;
+        display: inline-block;
+        }
+.hand   {
+        display: inline;
+        height: 30px;
+        }
+.sql
+        {
+        height: 70px;        
+        } 
+.dvl    
+        {
+        height: 70px;       
+        } 
+.studying
+        {
+       height: 70px;
+        }
+      
+
